@@ -26,6 +26,16 @@ The track list is small initially, but we are committed to releasing more stems 
 
 The zip is stored with Git LFS in this repo, and git tags will be used to keep track of dataset versions. The list of published versions so far are:
 
+### V1 - released 2021/09/08
+
+Track list:
+* Bouncin Around
+* Autumn in NY
+* Vibin Vibin
+* Yaku
+
+**NB** "Under My Skin" was removed since V0, and 4 new tracks added
+
 ### V0 - released 2021/09/02
 
 Track list:
@@ -33,23 +43,4 @@ Track list:
 
 ## Dataset zip format
 
-The dataset is released as a zip. Each track is a folder containing the mixed song as "Mix.wav", as well as all of the individual stems:
-```
-$ unzip OnAir-Music-Dataset-v0.zip
-Archive:  OnAir-Music-Dataset-v0.zip
-   creating: OnAir-Music-Dataset-v0/
-  inflating: OnAir-Music-Dataset-v0/LICENSE
-   creating: OnAir-Music-Dataset-v0/Under My Skin - OnAir Music/
-  inflating: OnAir-Music-Dataset-v0/Under My Skin - OnAir Music/Chords.wav
-  inflating: OnAir-Music-Dataset-v0/Under My Skin - OnAir Music/Guitar.wav
-  inflating: OnAir-Music-Dataset-v0/Under My Skin - OnAir Music/Snare.wav
-  inflating: OnAir-Music-Dataset-v0/Under My Skin - OnAir Music/Kick.wav
-  inflating: OnAir-Music-Dataset-v0/Under My Skin - OnAir Music/Build Drums.wav
-  inflating: OnAir-Music-Dataset-v0/Under My Skin - OnAir Music/Break Drums.wav
-  inflating: OnAir-Music-Dataset-v0/Under My Skin - OnAir Music/Bass.wav
-  inflating: OnAir-Music-Dataset-v0/Under My Skin - OnAir Music/Mix.wav
-  inflating: OnAir-Music-Dataset-v0/Under My Skin - OnAir Music/Piano.wav
-  inflating: OnAir-Music-Dataset-v0/Under My Skin - OnAir Music/Vox.wav
-  inflating: OnAir-Music-Dataset-v0/Under My Skin - OnAir Music/FX, Ambience, Drones.wav
-  inflating: OnAir-Music-Dataset-v0/README.md
-```
+The dataset is released as a zip. Each track is a folder containing the mixed song as "Mix.wav", as well as all of the individual stems.
