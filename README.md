@@ -26,6 +26,19 @@ The track list is small initially, but we are committed to releasing more stems 
 
 The zip is stored with Git LFS in this repo, and git tags will be used to keep track of dataset versions. The list of published versions so far are:
 
+### V2 - released 2021/09/09
+
+Track list:
+* Bouncin Around
+* Autumn in NY
+* Vibin Vibin
+* Yaku
+* Ronin
+* Action
+* Under My Skin
+
+**NB** Under My Skin has been readded with 2 new tracks, Ronin and Action. 7 total tracks.
+
 ### V1 - released 2021/09/08
 
 Track list:
