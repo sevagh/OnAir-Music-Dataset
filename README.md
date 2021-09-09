@@ -56,4 +56,4 @@ Track list:
 
 ## Dataset zip format
 
-The dataset is released as a zip. Each track is a folder containing the mixed song as "Mix.wav", as well as all of the individual stems.
+The dataset is released as a zip. Each track is a folder containing the mixed song and all of the stems.
