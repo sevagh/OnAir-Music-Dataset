@@ -26,6 +26,23 @@ The track list is small initially, but we are committed to releasing more stems 
 
 The zip is stored with Git LFS in this repo, and git tags will be used to keep track of dataset versions. The list of published versions so far are:
 
+### V3 - released 2021/09/18
+
+**NB** The V3 release consists of two zip files, due to the GitHub LFS 2GB file size limitation. Tracks are grouped by album where it makes sense (misc otherwise).
+
+Track list from the [LoFi Vol. 3](https://open.spotify.com/album/6gcADOwI4LzXaHHwOQbF7D) collection:
+* Autumn in NY
+* Bouncin Around
+* Ramen Rain
+* Vibin Vibin
+* Yaku
+
+Track list, misc:
+* Action
+* Ronin
+* Set Me Free
+* Under My Skin
+
 ### V2 - released 2021/09/09
 
 Track list:
