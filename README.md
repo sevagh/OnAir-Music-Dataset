@@ -20,6 +20,12 @@ Read more about Music Demixing on the ISMIR 2021 Music Demixing Challenge [compe
 
 Research for music demixing depends on the availability of music stems that can be used for training or testing machine learning models. We hope that the releasing of this dataset helps future demixing researchers to move the field forward.
 
+### MUSDB targets: drums, bass, vocals, other
+
+There is a Python loader library for some of the OnAir dataset, [onair-py](https://github.com/OnAir-Music/onair-py), for creating Track objects similar to [sigsep-mus-db](https://github.com/sigsep/sigsep-mus-db), using the musdb targets of drums, bass, vocals, other.
+
+Not every track is covered since they don't all map neatly to the 4 musdb targets.
+
 ## Tagged versions
 
 The track list is small initially, but we are committed to releasing more stems as songs are released on Spotify. They will be added to the dataset and new versions will be published.
