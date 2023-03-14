@@ -1,14 +1,8 @@
 # OnAir Music Dataset
 
-This is a dataset of music stems from the OnAir Music project for royalty-free songs:
-* [TheOnAir.Music on Instagram <img src="./.github/instagram_logo.svg" height=20px/>](https://www.instagram.com/theonair.music/)
-* [OnAir Music on Spotify <img src="./.github/spotify_logo.svg" height=20px/>](https://open.spotify.com/artist/7IYLENV1pGGPvL6wkyl7t5)
+This is a dataset of music stems from the OnAir Music project for royalty-free songs <a href="https://www.instagram.com/theonair.music/"><img src="./.github/instagram_logo.svg" height=20px/></a> <a href="https://open.spotify.com/artist/7IYLENV1pGGPvL6wkyl7t5"><img src="./.github/spotify_logo.svg" height=20px/></a>
 
-The OnAir Music project is created and maintained by:
-* Hrag: [@nazguitar on Instagram <img src="./.github/instagram_logo.svg" height=20px/>](https://www.instagram.com/nazguitar/), [NAZ on YouTube <img src="./.github/youtube_logo.svg" height=20px/>](https://www.youtube.com/channel/UCOJWAbfcCw2gkkkRZv1es_A)
-* The Crescent MTL Project: [@thecrescentmtl on Instagram](https://www.instagram.com/thecrescentmtl/), [The Crescent on YouTube <img src="./.github/youtube_logo.svg" height=20px/>](https://www.youtube.com/c/TheCrescent)
-
-The dataset on GitHub is maintained by Sevag: [sevagh on GitHub <img src="./.github/github_logo.svg" height=20px/>](https://github.com/sevagh)
+The OnAir Music project is created and maintained by Hrag <a href="https://www.instagram.com/nazguitar/"><img src="./.github/instagram_logo.svg" height=20px/></a> <a href="https://www.youtube.com/@naz4154"><img src="./.github/youtube_logo.svg" height=20px/></a>, the Crescent MTL Project <a href="https://www.instagram.com/thecrescentmtl/"><img src="./.github/instagram_logo.svg" height=20px/></a> <a href="https://www.youtube.com/c/TheCrescent"><img src="./.github/youtube_logo.svg" height=20px/></a>, and SevagH <a href="https://github.com/sevagh"><img src="./.github/github_logo.svg" height=20px/></a>
 
 The intent of releasing this stems dataset is for free and open Music Demixing research. The stems dataset is licensed under the Creative Commons Attribution Share Alike 4.0 International.
 
